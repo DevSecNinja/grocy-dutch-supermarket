@@ -1,0 +1,15 @@
+
+{
+	"name": "Grocy Dutch Supermarket",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"python.pythonPath": "/usr/local/bin/python",
+		"python.linting.enabled": true,
+		"python.linting.pylintEnabled": true
+	},
+	"extensions": [
+		"eamodio.gitlens",
+		"ms-python.python"
+	],
+	"dockerFile": "../Dockerfile"
+}
